@@ -7,3 +7,6 @@
 [submodule "Tableau-DataVisualization_And_Dashboards_with_Tableau"]
 	path = Tableau-DataVisualization_And_Dashboards_with_Tableau
 	url = https://github.com/LaraOnipede/Laras_Tableau_project.git
+[submodule "Supervised_Machine_Learning_Project"]
+	path = Supervised_Machine_Learning_Project
+	url = https://github.com/LaraOnipede/ML-project-supervised-learning.git
