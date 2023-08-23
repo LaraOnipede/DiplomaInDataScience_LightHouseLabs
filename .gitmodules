@@ -1,3 +1,6 @@
 [submodule "SQL_project-Transforming_and_Analysing_Data_withSQL"]
 	path = SQL_project-Transforming_and_Analysing_Data_withSQL
 	url = https://github.com/LaraOnipede/SQL_Project.git
+[submodule "Statistical_Modelling_with_Python"]
+	path = Statistical_Modelling_with_Python
+	url = https://github.com/LaraOnipede/Stat_Modelling_with_Python.git
