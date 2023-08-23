@@ -10,3 +10,6 @@
 [submodule "Supervised_Machine_Learning_Project"]
 	path = Supervised_Machine_Learning_Project
 	url = https://github.com/LaraOnipede/ML-project-supervised-learning.git
+[submodule "Unsupervised_Machine_Learning_Project"]
+	path = Unsupervised_Machine_Learning_Project
+	url = https://github.com/LaraOnipede/ml-project-unsupervised-learning.git
