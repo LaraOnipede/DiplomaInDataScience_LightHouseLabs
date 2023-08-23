@@ -4,3 +4,6 @@
 [submodule "Statistical_Modelling_with_Python"]
 	path = Statistical_Modelling_with_Python
 	url = https://github.com/LaraOnipede/Stat_Modelling_with_Python.git
+[submodule "Tableau-DataVisualization_And_Dashboards_with_Tableau"]
+	path = Tableau-DataVisualization_And_Dashboards_with_Tableau
+	url = https://github.com/LaraOnipede/Laras_Tableau_project.git
